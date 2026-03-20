@@ -36,7 +36,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:5173 to see the simulator.
+Open [http://localhost:5173](https://trusted-envelope-protocol-tep-sample-production.up.railway.app/#) to see the simulator.
 
 ## How It Works
 
