@@ -282,7 +282,6 @@ export default function App() {
             <h4 className="text-white font-medium mb-2">Trusted Envelope Protocol</h4>
             <p className="text-xs text-white/40 leading-relaxed">
               A proposed cryptographic layer for LLM agent security. By Matt Weitzman. 
-              This simulator demonstrates the "Option C" hybrid approach: out-of-band verification with in-context hints.
             </p>
           </div>
           <div className="flex gap-12">
