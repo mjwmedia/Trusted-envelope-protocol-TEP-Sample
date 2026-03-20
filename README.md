@@ -93,6 +93,7 @@ The full technical specification is available in the [TEP Spec Document](docs/tr
 
 **Matt Weitzman**  
 - [LinkedIn](https://linkedin.com/in/mattweitzman)
+- [MJW Media](https://mjwmedia.com)
 - [Swarm Digital Marketing](https://swarmdigital.io)
 
 ## License
