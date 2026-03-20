@@ -1,5 +1,0 @@
-{
-  "name": "TEP: Trusted Envelope Protocol Simulator",
-  "description": "A technical demonstration of cryptographic provenance and trust-aware policies for LLM agents.",
-  "requestFramePermissions": []
-}
