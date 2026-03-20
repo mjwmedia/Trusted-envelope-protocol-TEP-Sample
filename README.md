@@ -4,8 +4,6 @@
 
 TEP is a protocol for labeling message provenance in AI agent systems. By cryptographically signing user commands at the gateway, agents can distinguish authenticated instructions from external content — enabling trust-aware policy enforcement as a defense layer against prompt injection.
 
-![TEP Simulator](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-
 ## The Problem
 
 When an AI agent fetches external content (webpages, documents, emails), that content enters the same context window as user commands. The agent cannot structurally distinguish between legitimate instructions and injected attacks.
