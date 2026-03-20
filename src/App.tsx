@@ -289,16 +289,15 @@ export default function App() {
             <div>
               <h5 className="text-[10px] font-mono text-white/40 uppercase tracking-widest mb-4">Resources</h5>
               <ul className="text-xs space-y-2 text-white/60">
-                <li><a href="#" className="hover:text-emerald-500 transition-colors">Technical Spec</a></li>
-                <li><a href="#" className="hover:text-emerald-500 transition-colors">Threat Model</a></li>
-                <li><a href="#" className="hover:text-emerald-500 transition-colors">OpenClaw Integration</a></li>
+                <li><a href="https://github.com/mjwmedia/Trusted-envelope-protocol-TEP-Sample/blob/main/docs/trusted-envelope-spec.md" className="hover:text-emerald-500 transition-colors">Technical Spec</a></li>
+                <li><a href="https://github.com/openclaw/openclaw" className="hover:text-emerald-500 transition-colors">OpenClaw</a></li>
               </ul>
             </div>
             <div>
               <h5 className="text-[10px] font-mono text-white/40 uppercase tracking-widest mb-4">Contact</h5>
               <ul className="text-xs space-y-2 text-white/60">
-                <li><a href="#" className="hover:text-emerald-500 transition-colors">LinkedIn</a></li>
-                <li><a href="#" className="hover:text-emerald-500 transition-colors">GitHub</a></li>
+                <li><a href="https://linkedin.com/in/mattweitzman" className="hover:text-emerald-500 transition-colors">LinkedIn</a></li>
+                <li><a href="https://github.com/mjwmedia/Trusted-envelope-protocol-TEP-Sample" className="hover:text-emerald-500 transition-colors">GitHub</a></li>
               </ul>
             </div>
           </div>
